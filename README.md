@@ -5,7 +5,7 @@
 [![Portifólio](https://img.shields.io/badge/wfdevmotion-^-blue.svg)](https://wfdevmotion.com.br/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:wfs19@live.com)](mailto:wfs19@live.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willfs19&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william-fs&layout=compact&theme=tokyonight)
 
 ### Tecnologias que uso no dia a dia:
 <div style="display: inline_block">
