@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-ferreira-1b5676121/)
 [![Portifolio](https://img.shields.io/website?label=wfdevmotion.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://wfdevmotion.com.br/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willfs19&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willfs19&layout=compact&theme=tokyonight)
 
 ### Tecnologias que uso no dia a dia
 
