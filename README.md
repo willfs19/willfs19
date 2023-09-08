@@ -1,4 +1,5 @@
 ## Olá, Eu sou o William Ferreira 👋🏻
+#### <img style="width: 20px" align="center" alt="Html 5" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> Front-end Developer <img style="width: 20px" align="center" alt="Html 5" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/william-ferreira-1b5676121/)
 [![Portifólio](https://img.shields.io/badge/wfdevmotion-^-blue.svg)](https://wfdevmotion.com.br/)
