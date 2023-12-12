@@ -37,13 +37,12 @@
     <img style="padding: 2px;" align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img style="padding: 2px;" align="center" alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
     <img style="padding: 2px;" align="center" alt="Tailwind Css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img style="padding: 2px;" align="center" alt="Phyton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <br>
 <div style="display: inline_block">
-    <img style="padding: 2px;" align="center" alt="Node JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img style="padding: 2px;" align="center" alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img style="padding: 2px;" align="center" alt="Express JS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+    <img style="padding: 2px;" align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img style="padding: 2px;" align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+    <img style="padding: 2px;" align="center" alt="Phyton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 ##### Desenvolvimento web com mais vida e movimento.
