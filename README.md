@@ -4,7 +4,6 @@
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/william-ferreira-1b5676121/)
-[![Portifólio](https://img.shields.io/badge/wfdeveloper-^-blue.svg)](https://wfdeveloper.com.br/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:wf.developer@hotmail.com)](mailto:wf.developer@hotmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william-fs&layout=compact&theme=tokyonight)
